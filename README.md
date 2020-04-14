@@ -1,4 +1,4 @@
-Demo tutorial for alpine js.
+Demo tutorial for alpinejs by making an alram clock.
 
 To run this project 
 got to project home directory
